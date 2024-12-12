@@ -8,7 +8,7 @@ import { FaChevronDown } from "react-icons/fa6";
 
 const faqs = [
   {
-    question: "What is Apple Wallet?",
+    question: "What is Apple Wallet bcijdc  sdic  cudf dfufd  fidf ?",
     answer: `Apple Wallet is an app on iPhone and Apple Watch that securely and conveniently organizes your credit and debit cards, transit passes, boarding passes, tickets, identity cards, keys, rewards cards, and more — all in one place.`,
   },
   {
